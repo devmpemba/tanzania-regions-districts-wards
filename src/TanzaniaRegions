@@ -1,0 +1,11 @@
+<?php
+ 
+namespace TanzaniaRegions;
+ 
+class TanzaniaRegions
+{
+    public static function tanzaniaRegions()
+    {
+        echo "TanzaniaRegions";
+    }
+}

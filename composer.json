@@ -1,0 +1,11 @@
+{
+    "name": "devmpemba/tanzania-regions-districts-wards",
+    "description": "Tanzania Regions composer private package.",
+    "autoload": {
+        "psr-4": {
+            "devmepmba\\TanzaniaRegionsDistrictsWards\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
